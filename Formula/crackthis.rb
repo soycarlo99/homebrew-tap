@@ -2,7 +2,7 @@ class Crackthis < Formula
   desc "RSA cracking tool for CTF competitions"
   homepage "https://github.com/soycarlo99/crackthis"
   url "https://github.com/soycarlo99/crackthis/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PUT_YOUR_SHA256_HERE"
+  sha256 "7bbe64bdfdd2894de4a30e293d2d698f22297f020d253fa75feb158f7b211170"
   license "MIT"
 
   depends_on "go" => :build
